@@ -1,0 +1,12 @@
+E:\Spring Boot\Microservice\Projects\1\microservice-app\order-service\src\main\java\com\microservice\orderservice\model\Order.java
+E:\Spring Boot\Microservice\Projects\1\microservice-app\order-service\src\main\java\com\microservice\orderservice\dto\OrderLineItemsDto.java
+E:\Spring Boot\Microservice\Projects\1\microservice-app\order-service\src\main\java\com\microservice\orderservice\service\OrderServiceImp.java
+E:\Spring Boot\Microservice\Projects\1\microservice-app\order-service\src\main\java\com\microservice\orderservice\dto\InventoryDto.java
+E:\Spring Boot\Microservice\Projects\1\microservice-app\order-service\src\main\java\com\microservice\orderservice\service\OrderService.java
+E:\Spring Boot\Microservice\Projects\1\microservice-app\order-service\src\main\java\com\microservice\orderservice\dto\OrderDto.java
+E:\Spring Boot\Microservice\Projects\1\microservice-app\order-service\src\main\java\com\microservice\orderservice\event\OrderPlacedEvent.java
+E:\Spring Boot\Microservice\Projects\1\microservice-app\order-service\src\main\java\com\microservice\orderservice\controller\OrderController.java
+E:\Spring Boot\Microservice\Projects\1\microservice-app\order-service\src\main\java\com\microservice\orderservice\OrderServiceApplication.java
+E:\Spring Boot\Microservice\Projects\1\microservice-app\order-service\src\main\java\com\microservice\orderservice\repository\OrderRepository.java
+E:\Spring Boot\Microservice\Projects\1\microservice-app\order-service\src\main\java\com\microservice\orderservice\model\OrderLineItems.java
+E:\Spring Boot\Microservice\Projects\1\microservice-app\order-service\src\main\java\com\microservice\orderservice\config\WebClientConfig.java

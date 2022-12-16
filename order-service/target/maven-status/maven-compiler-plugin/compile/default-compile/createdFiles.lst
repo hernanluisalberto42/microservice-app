@@ -1,0 +1,15 @@
+com\microservice\orderservice\dto\InventoryDto$InventoryDtoBuilder.class
+com\microservice\orderservice\model\OrderLineItems.class
+com\microservice\orderservice\event\OrderPlacedEvent.class
+com\microservice\orderservice\controller\OrderController.class
+com\microservice\orderservice\repository\OrderRepository.class
+com\microservice\orderservice\dto\OrderLineItemsDto$OrderLineItemsDtoBuilder.class
+com\microservice\orderservice\service\OrderService.class
+com\microservice\orderservice\service\OrderServiceImp.class
+com\microservice\orderservice\dto\OrderLineItemsDto.class
+com\microservice\orderservice\config\WebClientConfig.class
+com\microservice\orderservice\dto\InventoryDto.class
+com\microservice\orderservice\dto\OrderDto$OrderDtoBuilder.class
+com\microservice\orderservice\OrderServiceApplication.class
+com\microservice\orderservice\model\Order.class
+com\microservice\orderservice\dto\OrderDto.class
